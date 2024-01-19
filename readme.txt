@@ -2,6 +2,9 @@
 
 -- Welcome to the README file for the StudyTimeManager Web App --
 
+- The project files are too large to be stored on Github, please open the projectfile textfile and
+click on the link to download the project files.
+
 
 > Name of the app:
 	- POE_FINAL_PROG6212
